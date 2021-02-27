@@ -4,18 +4,18 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
-    "text": ""
+    "link": "https://solviturambulando.es",
+    "text": "Diego Romero"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": ""
+    "more": "Tests",
+    "intro": "Test",
+    "title": "ideals"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Funding",
+    "colorLabel": "Color",
+    "nodeLabel": "Companies"
   },
   "features": {
     "search": true,
@@ -23,8 +23,8 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "groupByEdgeDirection": true,
+    "imageAttribute": "funding_usd"
   },
   "sigma": {
     "drawingProperties": {
