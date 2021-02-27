@@ -4,8 +4,8 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "https://solviturambulando.es",
-    "text": "Diego Romero"
+    "link": "https://inttrend.es",
+    "text": "everis SuSI"
   },
   "text": {
     "more": "Tests",
@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Funding",
-    "colorLabel": "Color",
+    "colorLabel": "Cluster",
     "nodeLabel": "Companies"
   },
   "features": {
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 8,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 2,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
